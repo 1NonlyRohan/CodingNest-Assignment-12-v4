@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -8,7 +8,7 @@
     font-size: 16px;
 }
 
-body{
+body {
     background: #fff;
 }
 
@@ -45,7 +45,7 @@ button a {
     color: white;
 }
 
-.img-1 img{
+.img-1 img {
     position: absolute;
     margin: 50px 0 0 50px;
 }
@@ -85,10 +85,10 @@ button a {
     padding: 15px;
     width: 560px;
     border-radius: 6px;
-    margin: 280px 0px 0px 700px;
+    margin: 280px 0 0 700px;
 }
 
-.product-name button a{
+.product-name button a {
     color: white;
     font-size: 25px;
     font-family: math;
@@ -100,4 +100,82 @@ button a {
     display: block;
     margin: 360px 90px 0 700px;
     font-size: 25px;
+}
+
+.mid-2 h1 {
+    font-size: 35px;
+    margin: 550px 0 0 60px;
+    position: absolute;
+}
+
+.img-2-content-1 img {
+    position: absolute;
+    margin: 600px 0 0 50px;
+}
+
+.img-2-content-1 h1 {
+    font-size: 30px;
+    position: absolute;
+    margin: 840px 0px 0px 60px;
+}
+
+.img-2-content-1 #p5 {
+    position: absolute;
+    margin: 880px 0px 0px 60px;
+    color: grey;
+    font-size: 25px;
+}
+
+.img-2-content-1 #p6 {
+    font-size: 22px;
+    position: absolute;
+    margin: 920px 0px 0px 60px;
+}
+
+.img-2-content-2 img {
+    position: absolute;
+    margin: 600px 0 0 500px;
+}
+
+.img-2-content-2 h1 {
+    font-size: 30px;
+    position: absolute;
+    margin: 840px 0px 0px 500px;
+}
+
+.img-2-content-2 #p7 {
+    position: absolute;
+    margin: 880px 0px 0px 500px;
+    color: grey;
+    font-size: 25px;
+}
+
+.img-2-content-2 #p8 {
+    font-size: 22px;
+    position: absolute;
+    margin: 920px 0px 0px 500px;
+}
+
+.img-2-content-3 img {
+    position: absolute;
+    margin: 600px 0 0 950px;
+}
+
+.img-2-content-3 h1 {
+    font-size: 30px;
+    position: absolute;
+    margin: 840px 0px 0px 950px;
+}
+
+.img-2-content-3 #p9 {
+    position: absolute;
+    margin: 880px 0px 0px 950px;
+    color: grey;
+    font-size: 25px;
+}
+
+.img-2-content-3 #p10 {
+    font-size: 22px;
+    position: absolute;
+    margin: 920px 0px 0px 950px;
 }
