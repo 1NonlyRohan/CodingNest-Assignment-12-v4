@@ -179,3 +179,30 @@ button a {
     position: absolute;
     margin: 920px 0px 0px 950px;
 }
+
+.foot a h1 {
+    position: absolute;
+    color: black;
+    font-size: 30px;
+    margin: 10px 0 0 120px;
+}
+
+.social-links {
+    position: absolute;
+    margin: 200px 0 0 100px;
+}
+
+.social-links .fa-xl {
+    font-size: 1.8em;
+    margin-left: 15px;
+    color: black;
+}
+
+.social-links .fa-xl:hover {
+    transition: all 0.3s;
+    color: darkgray;
+}
+
+.topic-page {
+    margin: 0px 0px 20px 800px;
+}
