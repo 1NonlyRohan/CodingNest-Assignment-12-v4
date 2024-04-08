@@ -44,3 +44,60 @@ button {
 button a {
     color: white;
 }
+
+.img-1 img{
+    position: absolute;
+    margin: 50px 0 0 50px;
+}
+
+.product-name h2 {
+    font-size: 40px;
+    position: absolute;
+    display: block;
+    margin: 50px 0 0 700px;
+}
+
+.product-name #p1 {
+    position: absolute;
+    display: block;
+    margin: 110px 0 0 700px;
+    font-size: 30px;
+    color: grey;
+}
+
+.product-name #p2 {
+    position: absolute;
+    display: block;
+    margin: 160px 0 0 700px;
+    font-size: 30px;
+}
+
+.product-name #p3 {
+    position: absolute;
+    display: block;
+    margin: 206px 90px 0 700px;
+    font-size: 25px;
+}
+
+.product-name button {
+    position: absolute;
+    background-color: black;
+    padding: 15px;
+    width: 560px;
+    border-radius: 6px;
+    margin: 280px 0px 0px 700px;
+}
+
+.product-name button a{
+    color: white;
+    font-size: 25px;
+    font-family: math;
+}
+
+.product-name #p4 {
+    color: grey;
+    position: absolute;
+    display: block;
+    margin: 360px 90px 0 700px;
+    font-size: 25px;
+}
